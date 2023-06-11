@@ -2,4 +2,4 @@
 <h2>Visit :</h2>
 
 
-<h2>https://github.com/Amit-Kumar-Pandey-05/Portfolio/index.html</h2>
+<h2>https://amit-kumar-pandey-05.github.io/Portfolio/</h2>
