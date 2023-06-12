@@ -13,11 +13,13 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 - [Contact](#contact)
 
 <hr>
+
 # About
 
 
 
 <hr>
+
 # Projects
 
 # Project Name
@@ -30,6 +32,7 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 
 
 <hr>
+
 # Skills
 
 - Category 1:
@@ -41,6 +44,7 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
   - Video Editing
 
 <hr>
+
 # Contact
 
 - Email: amitaur87@gmail.com
