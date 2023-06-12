@@ -1,8 +1,7 @@
 # Portfolio
-<h2>Visit :</h2>
+<h2>Visit :  https://amit-kumar-pandey-05.github.io/Portfolio/</h2>
+
 <hr>
-<h2>https://amit-kumar-pandey-05.github.io/Portfolio/</h2>
-# Portfolio
 
 This is my portfolio showcasing my projects and skills. You can visit the live version of the portfolio [here]([https://amit-kumar-pandey-05.github.io/Portfolio/]).
 
@@ -31,20 +30,20 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 ## Skills
 
 - Category 1:
-  - Skill 1
-  - Skill 2
-  - Skill 3
+  - Web Designing
+  - Web Development 
+  - Logo Designing
 - Category 2:
-  - Skill 4
-  - Skill 5
-- ...
+  - Content Writing
+  - Video Editing
 
 <hr>
 ## Contact
 
-- Email: your-amitaur87@gmail.com
-- LinkedIn: [](https://www.linkedin.com/in/)
+- Email: amitaur87@gmail.com
+- LinkedIn: [Amit Kumar Pandey](https://www.linkedin.com/in/mr0507)
 - Twitter: [](https://twitter.com/)
+- Instagram: [Pikachu...](https://www.instagram.com/pandit_0507)
 - Personal Website: [](https://)
 <hr><hr>
 Feel free to reach out to me for any collaborations, project ideas, or job opportunities.
