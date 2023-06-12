@@ -3,7 +3,7 @@
 
 <hr>
 
-This is my portfolio showcasing my projects and skills. You can visit the live version of the portfolio [here]([https://amit-kumar-pandey-05.github.io/Portfolio/]).
+This is my portfolio showcasing my projects and skills. You can visit the live version of the portfolio [Amit Kumar Pandey]([https://amit-kumar-pandey-05.github.io/Portfolio/]).
 
 ## Table of Contents
 
@@ -22,8 +22,11 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 
 ### Project Name
 
-- Link: [Live Demo]() | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/Portfolio)
-- Technologies: List the technologies or programming languages used in the project.
+- Link: [Live Demo](https://amit-kumar-pandey-05.github.io/Portfolio) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/Portfolio)
+- Technologies:
+. HTML
+. CSS
+. JAVASCRIPT
 /* Screenshots: Add relevant screenshots or GIFs showcasing the project (optional).*/
 
 <hr>
