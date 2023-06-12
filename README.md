@@ -22,7 +22,7 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 
 # Projects
 
-# Calculate me
+## Calculate me
 
 - Link: [Live Demo](https://amit-kumar-pandey-05.github.io/calculator) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/calculator)
 - Technologies:
@@ -30,14 +30,14 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 . CSS
 . JAVASCRIPT
 
-# Weather App
+## Weather App
 - Link: [Live Demo](https://amit-kumar-pandey-05.github.io/Weather-App/) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/Weather-App)
 - Technologies:
   . HTML
   . CSS
   . JAVASCRIPT
 
-# Speech to text converter
+## Speech to text converter
 - Link: [Live Demo](https://amit-kumar-pandey-05.github.io/Speech-To-Text-Converter-/) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/Speech-To-Text-Converter-)
 - Technologies:
   . HTML
