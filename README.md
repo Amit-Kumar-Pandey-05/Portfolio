@@ -1,11 +1,11 @@
 # Portfolio
-<h2>Visit :  https://amit-kumar-pandey-05.github.io/Portfolio/</h2>
+<h4>Visit :  https://amit-kumar-pandey-05.github.io/Portfolio/</h4>
 
 <hr>
 
 This is my portfolio showcasing my projects and skills. You can visit the live version of the portfolio [Amit Kumar Pandey]([https://amit-kumar-pandey-05.github.io/Portfolio/]).
 
-## Table of Contents
+# Table of Contents
 
 - [About](#about)
 - [Projects](#projects)
@@ -13,24 +13,24 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 - [Contact](#contact)
 
 <hr>
-## About
+# About
 
 
 
 <hr>
-## Projects
+# Projects
 
-### Project Name
+# Project Name
 
 - Link: [Live Demo](https://amit-kumar-pandey-05.github.io/Portfolio) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/Portfolio)
 - Technologies:
 . HTML
 . CSS
 . JAVASCRIPT
-/* Screenshots: Add relevant screenshots or GIFs showcasing the project (optional).*/
+
 
 <hr>
-## Skills
+# Skills
 
 - Category 1:
   - Web Designing
@@ -41,7 +41,7 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
   - Video Editing
 
 <hr>
-## Contact
+# Contact
 
 - Email: amitaur87@gmail.com
 - LinkedIn: [Amit Kumar Pandey](https://www.linkedin.com/in/mr0507)
